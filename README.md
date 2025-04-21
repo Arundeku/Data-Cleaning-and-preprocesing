@@ -1,8 +1,3 @@
-# Data-Cleaning-and-preprocesing
-Perfect! Here's a complete `README.md` content tailored to your repository based on the files you've uploaded:
-
----
-
 # 🧹 Data Science Job Listings – Cleaning & Preprocessing Project
 
 This project focuses on cleaning and preprocessing job listings in the field of Data Science. The dataset was initially unstructured and contained inconsistencies. Using Python and pandas in a Jupyter Notebook, we transformed the raw data into a clean and structured format ready for analysis and visualization.
